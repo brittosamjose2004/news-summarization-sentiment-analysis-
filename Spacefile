@@ -1,0 +1,8 @@
+# Spacefile Docs: https://huggingface.co/docs/hub/spaces-config-reference
+title: News Summarization and TTS
+emoji: 📰
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 8501
+pinned: false 
